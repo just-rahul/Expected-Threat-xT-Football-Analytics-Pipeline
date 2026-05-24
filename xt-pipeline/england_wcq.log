@@ -1,0 +1,2379 @@
+[05/14/26 09:53:40] INFO     No custom team name replacements      _config.py:92
+                             found. You can configure these in                  
+                             /Users/rahul/soccerdata/config/teamna              
+                             me_replacements.json.                              
+                    INFO     Custom league dict loaded from       _config.py:188
+                             /Users/rahul/soccerdata/config/leagu               
+                             e_dict.json.                                       
+                    INFO     Saving cached data to                _common.py:250
+                             /Users/rahul/soccerdata/data/WhoScor               
+                             ed                                                 
+Scraping match 1874072...
+[05/14/26 09:53:43] INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     [1/1] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             ccerdata/whoscored.py:421:                         
+                             FutureWarning: The behavior of                     
+                             DataFrame concatenation with empty                 
+                             or all-NA entries is deprecated. In                
+                             a future version, this will no                     
+                             longer exclude empty or all-NA                     
+                             columns when determining the result                
+                             dtypes. To retain the old behavior,                
+                             exclude the relevant entries before                
+                             the concat operation.                              
+                               pd.concat(all_schedules)                         
+                                                                                
+                    INFO     [1/1] Retrieving game with         whoscored.py:689
+                             id=1874072                                         
+[05/14/26 09:53:55] WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             cceraction/spadl/opta.py:220:                      
+                             FutureWarning: Downcasting object                  
+                             dtype arrays on .fillna, .ffill,                   
+                             .bfill is deprecated and will                      
+                             change in a future version. Call                   
+                             result.infer_objects(copy=False)                   
+                             instead. To opt-in to the future                   
+                             behavior, set                                      
+                             `pd.set_option('future.no_silent_do                
+                             wncasting', True)`                                 
+                               ).bfill()                                        
+                                                                                
+  match 1874072 OK — 1846 total actions
+Scraping match 1874074...
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     [1/1] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             ccerdata/whoscored.py:421:                         
+                             FutureWarning: The behavior of                     
+                             DataFrame concatenation with empty                 
+                             or all-NA entries is deprecated. In                
+                             a future version, this will no                     
+                             longer exclude empty or all-NA                     
+                             columns when determining the result                
+                             dtypes. To retain the old behavior,                
+                             exclude the relevant entries before                
+                             the concat operation.                              
+                               pd.concat(all_schedules)                         
+                                                                                
+                    INFO     [1/1] Retrieving game with         whoscored.py:689
+                             id=1874074                                         
+[05/14/26 09:54:13] WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             cceraction/spadl/opta.py:220:                      
+                             FutureWarning: Downcasting object                  
+                             dtype arrays on .fillna, .ffill,                   
+                             .bfill is deprecated and will                      
+                             change in a future version. Call                   
+                             result.infer_objects(copy=False)                   
+                             instead. To opt-in to the future                   
+                             behavior, set                                      
+                             `pd.set_option('future.no_silent_do                
+                             wncasting', True)`                                 
+                               ).bfill()                                        
+                                                                                
+  match 1874074 OK — 1676 total actions
+Scraping match 1874075...
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     [1/1] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             ccerdata/whoscored.py:421:                         
+                             FutureWarning: The behavior of                     
+                             DataFrame concatenation with empty                 
+                             or all-NA entries is deprecated. In                
+                             a future version, this will no                     
+                             longer exclude empty or all-NA                     
+                             columns when determining the result                
+                             dtypes. To retain the old behavior,                
+                             exclude the relevant entries before                
+                             the concat operation.                              
+                               pd.concat(all_schedules)                         
+                                                                                
+                    INFO     [1/1] Retrieving game with         whoscored.py:689
+                             id=1874075                                         
+[05/14/26 09:54:29] WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             cceraction/spadl/opta.py:220:                      
+                             FutureWarning: Downcasting object                  
+                             dtype arrays on .fillna, .ffill,                   
+                             .bfill is deprecated and will                      
+                             change in a future version. Call                   
+                             result.infer_objects(copy=False)                   
+                             instead. To opt-in to the future                   
+                             behavior, set                                      
+                             `pd.set_option('future.no_silent_do                
+                             wncasting', True)`                                 
+                               ).bfill()                                        
+                                                                                
+  match 1874075 OK — 1529 total actions
+Scraping match 1874079...
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     [1/1] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             ccerdata/whoscored.py:421:                         
+                             FutureWarning: The behavior of                     
+                             DataFrame concatenation with empty                 
+                             or all-NA entries is deprecated. In                
+                             a future version, this will no                     
+                             longer exclude empty or all-NA                     
+                             columns when determining the result                
+                             dtypes. To retain the old behavior,                
+                             exclude the relevant entries before                
+                             the concat operation.                              
+                               pd.concat(all_schedules)                         
+                                                                                
+                    INFO     [1/1] Retrieving game with         whoscored.py:689
+                             id=1874079                                         
+[05/14/26 09:54:45] WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             cceraction/spadl/opta.py:220:                      
+                             FutureWarning: Downcasting object                  
+                             dtype arrays on .fillna, .ffill,                   
+                             .bfill is deprecated and will                      
+                             change in a future version. Call                   
+                             result.infer_objects(copy=False)                   
+                             instead. To opt-in to the future                   
+                             behavior, set                                      
+                             `pd.set_option('future.no_silent_do                
+                             wncasting', True)`                                 
+                               ).bfill()                                        
+                                                                                
+  match 1874079 OK — 1554 total actions
+Scraping match 1874082...
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     [1/1] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             ccerdata/whoscored.py:421:                         
+                             FutureWarning: The behavior of                     
+                             DataFrame concatenation with empty                 
+                             or all-NA entries is deprecated. In                
+                             a future version, this will no                     
+                             longer exclude empty or all-NA                     
+                             columns when determining the result                
+                             dtypes. To retain the old behavior,                
+                             exclude the relevant entries before                
+                             the concat operation.                              
+                               pd.concat(all_schedules)                         
+                                                                                
+                    INFO     [1/1] Retrieving game with         whoscored.py:689
+                             id=1874082                                         
+[05/14/26 09:54:57] WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             cceraction/spadl/opta.py:220:                      
+                             FutureWarning: Downcasting object                  
+                             dtype arrays on .fillna, .ffill,                   
+                             .bfill is deprecated and will                      
+                             change in a future version. Call                   
+                             result.infer_objects(copy=False)                   
+                             instead. To opt-in to the future                   
+                             behavior, set                                      
+                             `pd.set_option('future.no_silent_do                
+                             wncasting', True)`                                 
+                               ).bfill()                                        
+                                                                                
+  match 1874082 OK — 1427 total actions
+Scraping match 1874085...
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     [1/1] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             ccerdata/whoscored.py:421:                         
+                             FutureWarning: The behavior of                     
+                             DataFrame concatenation with empty                 
+                             or all-NA entries is deprecated. In                
+                             a future version, this will no                     
+                             longer exclude empty or all-NA                     
+                             columns when determining the result                
+                             dtypes. To retain the old behavior,                
+                             exclude the relevant entries before                
+                             the concat operation.                              
+                               pd.concat(all_schedules)                         
+                                                                                
+                    INFO     [1/1] Retrieving game with         whoscored.py:689
+                             id=1874085                                         
+[05/14/26 09:55:10] WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             cceraction/spadl/opta.py:220:                      
+                             FutureWarning: Downcasting object                  
+                             dtype arrays on .fillna, .ffill,                   
+                             .bfill is deprecated and will                      
+                             change in a future version. Call                   
+                             result.infer_objects(copy=False)                   
+                             instead. To opt-in to the future                   
+                             behavior, set                                      
+                             `pd.set_option('future.no_silent_do                
+                             wncasting', True)`                                 
+                               ).bfill()                                        
+                                                                                
+  match 1874085 OK — 1778 total actions
+Scraping match 1874088...
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     [1/1] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             ccerdata/whoscored.py:421:                         
+                             FutureWarning: The behavior of                     
+                             DataFrame concatenation with empty                 
+                             or all-NA entries is deprecated. In                
+                             a future version, this will no                     
+                             longer exclude empty or all-NA                     
+                             columns when determining the result                
+                             dtypes. To retain the old behavior,                
+                             exclude the relevant entries before                
+                             the concat operation.                              
+                               pd.concat(all_schedules)                         
+                                                                                
+                    INFO     [1/1] Retrieving game with         whoscored.py:689
+                             id=1874088                                         
+[05/14/26 09:55:23] WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             cceraction/spadl/opta.py:220:                      
+                             FutureWarning: Downcasting object                  
+                             dtype arrays on .fillna, .ffill,                   
+                             .bfill is deprecated and will                      
+                             change in a future version. Call                   
+                             result.infer_objects(copy=False)                   
+                             instead. To opt-in to the future                   
+                             behavior, set                                      
+                             `pd.set_option('future.no_silent_do                
+                             wncasting', True)`                                 
+                               ).bfill()                                        
+                                                                                
+  match 1874088 OK — 1471 total actions
+Scraping match 1874089...
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification Grp. Stages)                         
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             A)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             B)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             C)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             D)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             E)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [1/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [2/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     [3/3] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             F)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             G)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             H)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             I)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             J)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             K)                                                 
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     [1/1] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 2nd Round)                      
+                    INFO     Retrieving calendar for            whoscored.py:358
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [1/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [2/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [3/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [4/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    INFO     [5/5] Retrieving fixtures for      whoscored.py:388
+                             INT-WCQ-UEFA 2025 (World Cup                       
+                             Qualification UEFA 1st Round Grp.                  
+                             L)                                                 
+                    WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             ccerdata/whoscored.py:421:                         
+                             FutureWarning: The behavior of                     
+                             DataFrame concatenation with empty                 
+                             or all-NA entries is deprecated. In                
+                             a future version, this will no                     
+                             longer exclude empty or all-NA                     
+                             columns when determining the result                
+                             dtypes. To retain the old behavior,                
+                             exclude the relevant entries before                
+                             the concat operation.                              
+                               pd.concat(all_schedules)                         
+                                                                                
+                    INFO     [1/1] Retrieving game with         whoscored.py:689
+                             id=1874089                                         
+[05/14/26 09:55:35] WARNING  /Users/rahul/Desktop/xt-pipeline/.v warnings.py:112
+                             env/lib/python3.12/site-packages/so                
+                             cceraction/spadl/opta.py:220:                      
+                             FutureWarning: Downcasting object                  
+                             dtype arrays on .fillna, .ffill,                   
+                             .bfill is deprecated and will                      
+                             change in a future version. Call                   
+                             result.infer_objects(copy=False)                   
+                             instead. To opt-in to the future                   
+                             behavior, set                                      
+                             `pd.set_option('future.no_silent_do                
+                             wncasting', True)`                                 
+                               ).bfill()                                        
+                                                                                
+  match 1874089 OK — 1624 total actions
+Done. Saved england_wcq_raw.pkl
