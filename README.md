@@ -1,4 +1,4 @@
-# xT pipeline — Bayern 25-26 + England WCQ
+# xT pipeline — Bayern 20255-26 Season + England WCQ Campaign
 
 ```
 WhoScored (soccerdata)  →  pandas / SPADL (socceraction)  →  xT (Karun Singh 12×8 grid)  →  mplsoccer
